@@ -58,11 +58,3 @@ class Conta:
     def codigo_bancos():
         return {"bb":'001', "Bradesco":'237'}
 
-# Chegou o Natal a melhor época do Ano  amor !! , é quando a gente  come muito, da risada com a família, comemora o nascimento de jesus
-#, e claro recebe presestes como esse kkkk "emoji",  mais do que isso é quando a gente para e pensa tudo que vivemos esse ano, todas as dificulades
-# e provações e  eu simplismente amo como conseguimos enfrentar tudo isso e permanecer juntos até esse momento tão aguarado. Estou ansioso para
-# o que vem no próximo ano e motivado para fazer acontencer coisas incríveis nas nossas vida, mas é claro só quero isso se for com vc, que tal, você aceita passar
-# o próximo natal comigo ?
-
- # te amo minha gata, desejo que tenha uma noite abençoada
- # Marry Chritisman
